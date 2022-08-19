@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/krafta/static/css/main.3bd8b69a.css",
-    "main.js": "/krafta/static/js/main.5843b8f8.js",
-    "static/js/787.719838f7.chunk.js": "/krafta/static/js/787.719838f7.chunk.js",
-    "index.html": "/krafta/index.html",
-    "main.3bd8b69a.css.map": "/krafta/static/css/main.3bd8b69a.css.map",
-    "main.5843b8f8.js.map": "/krafta/static/js/main.5843b8f8.js.map",
-    "787.719838f7.chunk.js.map": "/krafta/static/js/787.719838f7.chunk.js.map"
+    "main.css": "/static/css/main.3bd8b69a.css",
+    "main.js": "/static/js/main.1a8784ed.js",
+    "static/js/787.719838f7.chunk.js": "/static/js/787.719838f7.chunk.js",
+    "index.html": "/index.html",
+    "main.3bd8b69a.css.map": "/static/css/main.3bd8b69a.css.map",
+    "main.1a8784ed.js.map": "/static/js/main.1a8784ed.js.map",
+    "787.719838f7.chunk.js.map": "/static/js/787.719838f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bd8b69a.css",
-    "static/js/main.5843b8f8.js"
+    "static/js/main.1a8784ed.js"
   ]
 }
