@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.10c71be1.css",
-    "main.js": "/static/js/main.0d2066f8.js",
+    "main.css": "/static/css/main.4967c70e.css",
+    "main.js": "/static/js/main.c10dfb28.js",
     "static/js/787.719838f7.chunk.js": "/static/js/787.719838f7.chunk.js",
+    "static/media/kräfta4.png": "/static/media/kräfta4.686d483cb037919dd4e4.png",
+    "static/media/kräfta5.jpeg": "/static/media/kräfta5.ee5b7681aa08cd26577a.jpeg",
+    "static/media/kräfta7.jpeg": "/static/media/kräfta7.74cc596452b304522c01.jpeg",
+    "static/media/kräfta6.jpeg": "/static/media/kräfta6.948fbd3659a53c3d9b54.jpeg",
+    "static/media/kräfta1.png": "/static/media/kräfta1.a24427eed3bed8fdd1fd.png",
+    "static/media/kräfta3.jpg": "/static/media/kräfta3.441121f67f19b2f4b147.jpg",
+    "static/media/kräfta2.png": "/static/media/kräfta2.d6e3cadcbd605b0f27aa.png",
     "index.html": "/index.html",
-    "main.10c71be1.css.map": "/static/css/main.10c71be1.css.map",
-    "main.0d2066f8.js.map": "/static/js/main.0d2066f8.js.map",
+    "main.4967c70e.css.map": "/static/css/main.4967c70e.css.map",
+    "main.c10dfb28.js.map": "/static/js/main.c10dfb28.js.map",
     "787.719838f7.chunk.js.map": "/static/js/787.719838f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10c71be1.css",
-    "static/js/main.0d2066f8.js"
+    "static/css/main.4967c70e.css",
+    "static/js/main.c10dfb28.js"
   ]
 }
